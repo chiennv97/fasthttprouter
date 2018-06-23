@@ -76,7 +76,7 @@ package fasthttprouter
 import (
 	"strings"
 
-	"github.com/valyala/fasthttp"
+	"github.com/chiennv97/fasthttp"
 )
 
 var (
